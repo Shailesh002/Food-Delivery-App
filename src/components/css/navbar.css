@@ -1,0 +1,10 @@
+/* Navbar */
+
+.bg-custom-1 {
+    background-image: linear-gradient(25deg, #000000 20%, #2C8F30 100%);
+}
+
+.nav-link,
+.navbar-brand {
+    color: white !important;
+}
